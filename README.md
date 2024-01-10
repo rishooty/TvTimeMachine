@@ -11,7 +11,12 @@ This is nothing more than the mere start of a controller mapping utlity at the m
   * (current WIP) Show images for each button of the controller type and prompt the user to hold for one second, much like the above but     without auto scrolling.
   * After each input has been saved, spit two .cfg files containing an Xoutput (windows) and xboxdrv (*nix), saved under a directory matching the controller's name and/or hardware id.
 
+# Lazy Screenshots
+
+![alt text](screenshots/channelInit.png)
+![alt text](screenshots/controlMap1.png)
 
 ### Credits So far:
+
 * [Weiholmir Pixel Font](https://justfredrik.itch.io/weiholmir) by JustFredrik
 * [Controllers and Butons Master Pack](https://justfredrik.itch.io/controllers-n-buttons) by JustFredrik
