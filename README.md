@@ -14,7 +14,7 @@ This is nothing more than the mere start of a controller mapping utlity at the m
 # Lazy Screenshots
 
 ![alt text](screenshots/channelInit.png)
-![alt text](screenshots/controlMap1.png)
+![alt text](screenshots/controlmap1.png)
 
 ### Credits So far:
 
