@@ -12,6 +12,6 @@ This is nothing more than the mere start of a controller mapping utlity at the m
   * After each input has been saved, spit two .cfg files containing an Xoutput (windows) and xboxdrv (*nix), saved under a directory matching the controller's name and/or hardware id.
 
 
-Credits So far:
-[Weiholmir Pixel Font](https://justfredrik.itch.io/weiholmir) by JustFredrik
-[Controllers and Butons Master Pack](https://justfredrik.itch.io/controllers-n-buttons) by JustFredrik
+### Credits So far:
+* [Weiholmir Pixel Font](https://justfredrik.itch.io/weiholmir) by JustFredrik
+* [Controllers and Butons Master Pack](https://justfredrik.itch.io/controllers-n-buttons) by JustFredrik
